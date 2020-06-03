@@ -7,22 +7,22 @@ class App extends Component {
     return (
       <>
         <ContactCard
-          name="John"
+          name="Victor"
           mobile="2125555555"
           work="8002222222"
-          email="hello@example.com"
+          email="victor@gmail.com"
         />
         <ContactCard
-          name="Jill"
+          name="Linda"
           mobile="7185555555"
           work="7182222222"
-          email="jill@example.org"
+          email="linda@gmail.com"
         />
         <ContactCard
-          name="Mike"
+          name="Jessica"
           mobile="3475555555"
           work="5552222222"
-          email="mike@example.com"
+          email="jess@gmail.com"
         />
       </>
     );
